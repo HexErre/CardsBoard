@@ -2,7 +2,7 @@
 
 [![Open App](https://img.shields.io/badge/Open%20App-▶%20Launch-green?style=for-the-badge)](https://hexerre.github.io/CardsBoard/)
 
-A virtual card table for French-deck games — runs entirely in your browser, 
+A virtual card table for cards games — runs entirely in your browser, 
 no install, no account, no server.
 
 ---
